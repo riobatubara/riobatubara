@@ -1,16 +1,33 @@
-## Hi there 👋
+<!DOCTYPE html>
+<body>
+    <h1 align="center"><samp>&gt; Hey, I am <b>Rio</b></samp></h1>
+    <samp>
+      🚀 Data & Backend Engineer passionate about building scalable systems and data-driven solutions.
+      Always learning, always building.
+    </samp>
+<br>
 
-<!--
-**riobatubara/riobatubara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <h2><samp>&gt; Tech Stack</samp></h2>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+      <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+      <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+      <img src="https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
+      <img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+      <img src="https://img.shields.io/badge/apache%20hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black">
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+      <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/amazon%20redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white">
+      <img src="https://img.shields.io/badge/openshift-EE0000?style=for-the-badge&logo=redhat-openshift&logoColor=white">
+      <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+      <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+      <br>
+  </p>
+</div>
+</body>
